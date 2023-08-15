@@ -1,0 +1,15 @@
+C:\Users\OMEN\Desktop\VS Code\CountryCity\bin\Debug\net7.0\CountryCity.exe
+C:\Users\OMEN\Desktop\VS Code\CountryCity\bin\Debug\net7.0\CountryCity.deps.json
+C:\Users\OMEN\Desktop\VS Code\CountryCity\bin\Debug\net7.0\CountryCity.runtimeconfig.json
+C:\Users\OMEN\Desktop\VS Code\CountryCity\bin\Debug\net7.0\CountryCity.dll
+C:\Users\OMEN\Desktop\VS Code\CountryCity\bin\Debug\net7.0\CountryCity.pdb
+C:\Users\OMEN\Desktop\VS Code\CountryCity\obj\Debug\net7.0\CountryCity.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\VS Code\CountryCity\obj\Debug\net7.0\CountryCity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\VS Code\CountryCity\obj\Debug\net7.0\CountryCity.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\VS Code\CountryCity\obj\Debug\net7.0\CountryCity.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\VS Code\CountryCity\obj\Debug\net7.0\CountryCity.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\VS Code\CountryCity\obj\Debug\net7.0\CountryCity.dll
+C:\Users\OMEN\Desktop\VS Code\CountryCity\obj\Debug\net7.0\refint\CountryCity.dll
+C:\Users\OMEN\Desktop\VS Code\CountryCity\obj\Debug\net7.0\CountryCity.pdb
+C:\Users\OMEN\Desktop\VS Code\CountryCity\obj\Debug\net7.0\CountryCity.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\VS Code\CountryCity\obj\Debug\net7.0\ref\CountryCity.dll
